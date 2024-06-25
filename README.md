@@ -33,3 +33,13 @@ admin-username
 123-password
 For Lecturer login , enrollment or student enrollment as well attendance taking through fingerprint you will need a ZK Fingerprint device ZK 4500 device to be precise.
 You will also need a xamp server to import the asas.sql database that i have provided.
+Instructions for running project:
+
+First of all make sure you have Netbeans 18 or higher.You can download it from here:https://netbeans.apache.org/front/main/download/
+(I used version 19 for my project) and install.
+Secondly ensure you have a java runtime environemt, you can download one here depending on your OS :https://www.java.com/en/download/manual.jsp
+and install.
+Third ensure you have java development kit which you can download from here depending on your OS :https://www.oracle.com/ke/java/technologies/downloads/
+(I would recommend jdk 18) and install.
+After that open netbeans after installing the above netbeans , jre, and jdk.
+Go to the file menu and click open folder.
